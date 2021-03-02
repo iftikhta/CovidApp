@@ -1,6 +1,8 @@
 # CovidApp
 A figma project for a COVID-19 help app
 
+This is the second draft of a COVID - 19 app that lets users register as elderly or volunteers to gain access to information like guides, covid stats and have the ability to find or provide assitance via a find feature that lets you use geographic location to search for volutneers and input the skills youd like to volunteer as well as times you are available.
+
 Features:
 - Clean navigable GUI
 - Locating volunteers by geography
