@@ -1,6 +1,13 @@
 # CovidApp
 A figma project for a COVID-19 help app
 
+Features:
+- Clean navigable GUI
+- Locating volunteers by geography
+- Locating volunteers by freuqency of bumping into them
+- View skills that volunteers have to offer and their availability
+- All in one stop for reading new stats, guides and seeking help
+- Lets you chose if you are an elederly or volunteer on signup
 
 
 Public Figma View:
