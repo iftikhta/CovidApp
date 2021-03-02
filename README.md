@@ -17,8 +17,30 @@ Features:
 [Youtube](https://www.youtube.com/watch?v=zDXTOixG2Fs&feature=youtu.be)
 
 
-Some helpful screenshots of features and what to expect:
+**Some helpful screenshots of features and what to expect:**
 
 The initial login:
 
 ![](https://github.com/iftikhta/CovidApp/blob/master/Images/Screenshots/Login.PNG)
+
+Stats page example:
+
+![](https://github.com/iftikhta/CovidApp/blob/master/Images/Screenshots/Statzs.PNG)
+
+Guides page example:
+
+![](https://github.com/iftikhta/CovidApp/blob/master/Images/Screenshots/Guides.PNG)
+
+Finder page example:
+
+![](https://github.com/iftikhta/CovidApp/blob/master/Images/Screenshots/Finder.PNG)
+
+Chose a volunteer page example:
+
+![](https://github.com/iftikhta/CovidApp/blob/master/Images/Screenshots/Chose%20volunteers%20to%20contact.PNG)
+
+Chat with a volunteer page example:
+
+![](https://github.com/iftikhta/CovidApp/blob/master/Images/Screenshots/Chat%20with%20volunteers.PNG)
+
+
