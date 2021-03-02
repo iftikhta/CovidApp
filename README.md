@@ -20,4 +20,5 @@ Features:
 Some helpful screenshots of features and what to expect:
 
 The initial login:
+
 ![](https://github.com/iftikhta/CovidApp/blob/master/Images/Screenshots/Login.PNG)
