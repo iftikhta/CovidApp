@@ -13,6 +13,6 @@ A project I made in Figma for a covid19 help app
 - Find help/Give help with map
 
 ## Screenshots:
-<img src="Seniors_List.png" align="left" width="30%" >
-<img src="Requests.png" align="left" width="30%" >
-<img src="Request_Form.png" align="left" width="30%" >
+<img src="HomeScreen.png" align="left" width="30%" >
+<img src="Volunteers.png" align="left" width="30%" >
+<img src="Broadcast.png" align="left" width="30%" >
